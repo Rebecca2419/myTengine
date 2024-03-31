@@ -1,0 +1,15 @@
+Cifar10
+vgg 72.94
+resnet 68.66
+
+Cifar100
+vgg 32.11
+resnet 28.50
+
+Caltech
+vgg 39.63
+resnet 53.97
+
+SVHN
+vgg 95.28
+resnet 94.88
